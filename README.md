@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikhil - aka [Nikhil Raj][website] 👋
 
-[![Website](http://nikhilrajnr.github.io/)](http://nikhilrajnr.github.io)
+[![Website](http://nikhilrajnr.github.io)](http://nikhilrajnr.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DevNikhilRaj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDevNikhilRaj&screen_name=DevNikhilRaj)
 
 ## I'm a DevOps Engineer!!
@@ -62,10 +62,10 @@
 - [Fancy Burger Menu Button - Animated CSS Effects (2021)](https://www.youtube.com/watch?v=6HS8owNMCb4)
 --->
 <!-- YOUTUBE:END -->
-
+<!---
 ➡️ [more videos...](https://youtube.com/codestackr)
 
----
+--->
 
 ### 📕 Latest Blog Posts
 
@@ -77,10 +77,10 @@
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
-
+<!---
 ➡️ [more blog posts...](https://codestackr.com)
 
----
+--->
 <!---
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
