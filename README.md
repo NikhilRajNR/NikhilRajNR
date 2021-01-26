@@ -4,10 +4,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/DevNikhilRaj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDevNikhilRaj&screen_name=DevNikhilRaj)
 
 ## I'm a DevOps Engineer !!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Gardening 🤣
+- 🌱 I’m currently learning DevOps 🤣
+- 👯 I’m looking to collaborate with other DevOps to delivery high software quality.
+- 🥅 2021 Goals: Contribute to Open Source projects.
+- ⚡ Fun fact: I love Gardening & Cooking 🤣
 
 ### Connect with me:
 [<img align="left" alt="DevNikhilRaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -38,7 +38,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrajnr&layout=compact&theme=merko&hide_border=true)](https://github.com/nikhilrajnr/nikhilrajnr)
 
 
-<details>
+<details open>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="nikhilrajnr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nikhilrajnr&show_icons=true&hide_border=true&theme=blue-green" />
