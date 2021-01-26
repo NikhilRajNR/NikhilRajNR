@@ -1,4 +1,4 @@
-### Hi there, I'm Nikhil - aka [Nikhil Raj][website] 👋
+### Hi there, I'm Nikhil -[website] 👋
 
 [![Website](https://img.shields.io/website?label=nikhilrajnr.github.io&style=for-the-badge&url=https%3A%2F%2Fnikhilrajnr.github.io)](http://nikhilrajnr.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DevNikhilRaj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDevNikhilRaj&screen_name=DevNikhilRaj)
@@ -41,6 +41,6 @@
   <img align="left" alt="nikhilrajnr's GitHub Stats" src="https://github-readme-stats.nikhilrajnr.vercel.app/api?username=nikhilrajnr&show_icons=true&hide_border=true" />
 
 </details>
-
+[website]: http://nikhilrajnr.github.io
 [twitter]: https://twitter.com/DevNikhilRaj
 [linkedin]: https://www.linkedin.com/in/nikhilrajnr
