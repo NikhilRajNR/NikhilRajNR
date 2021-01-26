@@ -45,7 +45,5 @@
 
 </details>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="nikhilrajnr"><a class="LI-simple-link" href='https://in.linkedin.com/in/nikhilrajnr?trk=profile-badge'>NIKHIL RAJ</a></div>
 [twitter]: https://twitter.com/DevNikhilRaj
 [linkedin]: https://www.linkedin.com/in/nikhilrajnr
