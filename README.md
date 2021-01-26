@@ -35,6 +35,8 @@
 <br />
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrajnr&layout=compact)](https://github.com/nikhilrajnr/nikhilrajnr)
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -42,6 +44,7 @@
   <img align="left" alt="nikhilrajnr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nikhilrajnr&show_icons=true&hide_border=true&theme=blue-green" />
 
 </details>
+
 
 [twitter]: https://twitter.com/DevNikhilRaj
 [linkedin]: https://www.linkedin.com/in/nikhilrajnr
