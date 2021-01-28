@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning DevOps 🤣
 - 👯 I’m looking to collaborate with other DevOps to delivery high software quality.
 - 🥅 2021 Goals: Contribute to Open Source projects.
-- ⚡ Fun fact: I love Gardening & Cooking 🤣
+- ⚡ Fun fact: I love Exploring World 🤣
 
 ### Connect with me:
 [<img align="left" alt="DevNikhilRaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
