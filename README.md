@@ -5,8 +5,8 @@
 
 ## I'm a DevOps Engineer !!
 - 🌱 I’m currently learning DevOps 🤣
-- 👯 I’m looking to collaborate with other DevOps to delivery high software quality.
-- 🥅 2021 Goals: Contribute to Open Source projects.
+- 👯 I’m looking to collaborate with other DevOps to delivery high quality software.
+- 🥅 2021 Goals: Share more Knowledge & Contribute to Open Source projects.
 - ⚡ Fun fact: I love Exploring World 🤣
 
 ### Connect with me:
