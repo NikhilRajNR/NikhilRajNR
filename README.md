@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikhil 👋
 
 [![Website](https://img.shields.io/website?label=nikhilrajnr.github.io&style=for-the-badge&url=https%3A%2F%2Fnikhilrajnr.github.io)](http://nikhilrajnr.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DevNikhilRaj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDevNikhilRaj&screen_name=DevNikhilRaj)
+[![Twitter Follow](https://img.shields.io/twitter/follow/NikDevOps?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%NikDevOps&screen_name=NikDevOps)
 
 ## I'm a DevOps Engineer, Mentor & Brother !!
 - 🌱 I’m currently learning DevOps 🤣
