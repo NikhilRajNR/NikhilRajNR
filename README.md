@@ -1,24 +1,27 @@
-### Hi there, I'm Nikhil 👋
+# Hi there, I'm Nikhil 👋
 
 [![Website](https://img.shields.io/website?label=nikhilrajnr.github.io&style=for-the-badge&url=https%3A%2F%2Fnikhilrajnr.github.io)](http://nikhilrajnr.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NikDevOps?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%NikDevOps&screen_name=NikDevOps)
 
-## I'm a DevOps Engineer, Mentor & Blogger!!
+## I'm a DevOps Engineer, Mentor & Blogger
+
 - 🌱 I’m currently learning DevOps 🤣
 - 👯 I’m looking to collaborate with other DevOps to delivery high quality software.
-- 🥅 2021 Goals: Share more Knowledge & Contribute to Open Source projects.
+- 🥅 2023 Goals: Share more Knowledge & Contribute to Open Source projects.
 - ⚡ Fun fact: I love Exploring World 🤣
 
-### Connect with me:
-[<img align="left" alt="DevNikhilRaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+### Connect with me
+
+[<img align="left" alt="DevNikhilRaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="nikhilrajnr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
+
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="PowerShell" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" />
 <img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
@@ -30,13 +33,11 @@
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-
 <br />
 <br />
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrajnr&layout=compact&theme=merko&hide_border=true)](https://github.com/nikhilrajnr/nikhilrajnr)
-
 
 <details open>
   <summary>⚡ GitHub Stats</summary>
